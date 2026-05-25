@@ -1,5 +1,5 @@
 to install the system : 
-android : https://expo.dev/accounts/intanhbrh/projects/ANPR_Project/builds/5ef412a1-cce9-4240-850b-ad7d4ec8cc92
+android : https://expo.dev/accounts/intanhbrh/projects/ANPR_Project/builds/5626a1be-a6d7-4591-b36d-45eedcc1e322
 
 # 🚗 ANPR School Pickup System
 
